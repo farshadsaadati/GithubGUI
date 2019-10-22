@@ -1,3 +1,5 @@
 this is note.txt file.
 
 Add new feature.
+
+Add new text in feature branch.
